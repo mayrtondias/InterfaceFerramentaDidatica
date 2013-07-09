@@ -1,1 +1,1 @@
-Ferramenta de auxílio ao professor e ao aluno visando facilitar o exercicio de ambas as partes.
+Ferramenta de auxilio ao professor e ao aluno visando facilitar o exercicio de ambas as partes.
