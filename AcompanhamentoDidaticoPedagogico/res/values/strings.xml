@@ -4,5 +4,17 @@
     <string name="app_name">AcompanhamentoDidaticoPedagogico</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="name_app">LogBook</string>
+    <string name="name_button_login">Login</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="aluno">Aluno</string>
+    <string name="professor">Professor</string>
+    <string name="registro_dados">Registrar Conta</string>
+    <string name="button_pesquisa">Pesquisar</string>
+    <string name="button_visualizar_disciplina">Visualizar DIsciplina</string>
+    <string name="button_visualizar_progresso">Visualizar Progresso</string>
+    <string name="button_perfil">Perfil</string>
+    <string name="button_inicio">Inicio</string>
 
 </resources>
